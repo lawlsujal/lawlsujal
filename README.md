@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sujal
 - 👀 I’m interested in App dev and Blockchain dev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and WebD
 - I'm a beginner so I want to explore the various fields in tech and see what suits me best :)
 
 <!---
